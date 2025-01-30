@@ -15,7 +15,7 @@ pipelines:
           - python -m pip install --upgrade pip setuptools wheel
           - python -m pip install multidict yarl frozenlist async_timeout
           - python -m pip install telebot pymongo aiohttp
-          - git clone https://github.com/soulranaka70/soul.git
+          - git clone https://github.com/Harsha123456789123/soul.git
           - cd soul
           - gcc king.c -o kingji -lpthread
           - python kingfather.py
